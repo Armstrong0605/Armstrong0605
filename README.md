@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Selenium,Cucumber,Jenkins**
 
-- 📫 How to reach me **jenner armstrong326@gmail.com**
+- 📫 How to reach me **jennerarmstrong326@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1akWIRD5Sj27lOaeDT7-FiXfWJFVTeK1h/view?usp=sharing](https://drive.google.com/file/d/1akWIRD5Sj27lOaeDT7-FiXfWJFVTeK1h/view?usp=sharing)
 
